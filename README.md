@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pablo Mena
-- 👀 I’m interested in Data Science | MLOps
-- 🌱 I’m currently learning Machine Learning | NLP | LLMs | Computer Vision
+- 👀 I’m interested in Data Science | AI | MLOps
+- 🌱 I’m currently learning Machine Learning | NLP | AI | Computer Vision
 - 📫 Reach me by p.mena.m10@gmail.com
